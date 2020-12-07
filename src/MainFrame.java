@@ -214,5 +214,6 @@ hboxTEMP.add(TEMP4);
         MainFrame frame = new MainFrame();
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setVisible(true);
+        System.out.println('kek');
     }
 }
